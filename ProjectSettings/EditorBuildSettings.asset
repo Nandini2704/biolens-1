@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 4755b35b590504809a7525fd2109c2e2
+  - enabled: 1
+    path: Assets/Scenes/mainscene.unity
+    guid: 9b39dfb0a52c98f449c5374b8ba83ac4
+  - enabled: 1
+    path: Assets/Scenes/UnknownScene.unity
+    guid: e900fa09ee5f1c646adf3c719162bc59
+  - enabled: 1
+    path: Assets/Scenes/PhotosynthesisScene.unity
+    guid: f9a7aa9fb9f9f244c954f161c0441197
+  - enabled: 1
+    path: Assets/Scenes/PhotosynthesisScene.unity
+    guid: f9a7aa9fb9f9f244c954f161c0441197
+  - enabled: 1
+    path: Assets/Scenes/PollinationScene.unity
+    guid: 0f27b06741940234c8222c7bf0796002
+  - enabled: 1
+    path: Assets/Scenes/UnknownScene.unity
+    guid: e900fa09ee5f1c646adf3c719162bc59
+  - enabled: 1
+    path: Assets/Scenes/plantcycle.unity
+    guid: 676c910d6a524a540a056e6d70298d09
+  - enabled: 1
+    path: Assets/Scenes/photo.unity
+    guid: 996ab5f42ce21a94a96572bbe2332c1e
+  - enabled: 1
+    path: Assets/Scenes/SelfPollinationScene.unity
+    guid: 51e3a17963d75ad48a9a888f7199ba80
+  - enabled: 1
+    path: Assets/Scenes/CrossPollinationScene.unity
+    guid: 1f38e03034223464b9d5f70204689dcd
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c199e683398494f32b4cde18e73ab731,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 0b53a025a635a4393ba0b49822242280,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b07c4ba7650be4c25b3d0c497e7e2bb8,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
